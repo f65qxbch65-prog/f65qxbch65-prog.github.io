@@ -1,4 +1,4 @@
-7e12aadd-0e1f-4b70-bffe-107bc0b57f5e
+index.7e12aadd-0e1f-4b70-bffe-107bc0b57f5e
 <!DOCTYPE html>
 <html lang="ru">
 <head>
